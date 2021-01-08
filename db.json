@@ -3,11 +3,29 @@
     {
       "id": 1,
       "plateNUmber": "KSF230FG",
-      "firstName": "Michael",
-      "lastName": "Agbogo",
-      "middleName": "Adakole",
       "Insurance": "yes",
       "Licence": "yes",
+      "Road Worthiness": "yes"
+    },
+    {
+      "id": 2,
+      "plateNUmber": "ABC145GH",
+      "Insurance": "yes",
+      "Licence": "yes",
+      "Road Worthiness": "no"
+    },
+    {
+      "id": 3,
+      "plateNUmber": "SJF470TY",
+      "Insurance": "no",
+      "Licence": "yes",
+      "Road Worthiness": "yes"
+    },
+    {
+      "id": 4,
+      "plateNUmber": "POL857CN",
+      "Insurance": "yes",
+      "Licence": "no",
       "Road Worthiness": "yes"
     }
   ]
