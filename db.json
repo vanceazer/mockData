@@ -1,0 +1,14 @@
+{
+  "carInformation": [
+    {
+      "id": 1,
+      "plateNUmber": "KSF230FG",
+      "firstName": "Michael",
+      "lastName": "Agbogo",
+      "middleName": "Adakole",
+      "Insurance": "yes",
+      "Licence": "yes",
+      "Road Worthiness": "yes"
+    }
+  ]
+}
