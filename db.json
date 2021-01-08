@@ -27,6 +27,13 @@
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
+    },
+    {
+      "id": 5,
+      "plateNUmber": "BOJ888DJ",
+      "Insurance": "no",
+      "Licence": "no",
+      "Road Worthiness": "no"
     }
   ]
 }
