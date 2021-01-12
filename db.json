@@ -34,6 +34,13 @@
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "no"
+    },
+    {
+      "id": 6,
+      "plateNUmber": "DEFENCE002",
+      "Insurance": "no",
+      "Licence": "no",
+      "Road Worthiness": "yes"
     }
   ]
 }
