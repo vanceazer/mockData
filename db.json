@@ -2,42 +2,42 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "NGR098YUK",
+      "plateNUmber": "FGN001",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 4,
-      "plateNUmber": "GHJ234PP",
+      "plateNUmber": "FGN002",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "no"
     },
     {
       "id": 2,
-      "plateNUmber": "CHICK001",
+      "plateNUmber": "LLL878JK",
       "Insurance": "no",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 7,
-      "plateNUmber": "NECKY001",
+      "plateNUmber": "JJJ345GF",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
     },
     {
       "id": 8,
-      "plateNUmber": "ALAMA001",
-      "Insurance": "no",
+      "plateNUmber": "KLC348FS",
+      "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "no"
     },
     {
       "id": 14,
-      "plateNUmber": "JANE001",
+      "plateNUmber": "AAB294JK",
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "yes"
