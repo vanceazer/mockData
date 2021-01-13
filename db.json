@@ -2,42 +2,42 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "FGN001",
+      "plateNUmber": "AZW989LK",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 4,
-      "plateNUmber": "FGN002",
+      "plateNUmber": "KLZ239MH",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "no"
     },
     {
       "id": 2,
-      "plateNUmber": "LLL878JK",
+      "plateNUmber": "DWS743HV",
       "Insurance": "no",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 7,
-      "plateNUmber": "JJJ345GF",
+      "plateNUmber": "DGC987YR",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
     },
     {
       "id": 8,
-      "plateNUmber": "KLC348FS",
+      "plateNUmber": "RRE900YU",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "no"
     },
     {
       "id": 14,
-      "plateNUmber": "AAB294JK",
+      "plateNUmber": "YER678PL",
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "yes"
