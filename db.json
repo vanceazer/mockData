@@ -2,7 +2,7 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "YER678PL",
+      "plateNUmber": "ABC343JF",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
@@ -23,7 +23,7 @@
     },
     {
       "id": 7,
-      "plateNUmber": "DGC987YR",
+      "plateNUmber": "POL857CN",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
