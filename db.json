@@ -2,14 +2,14 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "ABC343JF",
+      "plateNUmber": "MNH463XX",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 4,
-      "plateNUmber": "SJF470TY",
+      "plateNUmber": "AZW989LK",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "no"
@@ -23,21 +23,21 @@
     },
     {
       "id": 7,
-      "plateNUmber": "POL857CN",
+      "plateNUmber": "KLZ239MH",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
     },
     {
       "id": 8,
-      "plateNUmber": "YER678PL",
+      "plateNUmber": "DWS743HV",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "no"
     },
     {
       "id": 14,
-      "plateNUmber": "ZDX786NM",
+      "plateNUmber": "LOT678PE",
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "yes"
