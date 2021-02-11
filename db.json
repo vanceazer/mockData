@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "plateNUmber": "kuj510be",
+      "plateNUmber": "sdfc",
       "Insurance": "no",
       "Licence": "yes",
       "Road Worthiness": "yes"
@@ -41,6 +41,13 @@
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "yes"
+    },
+    {
+      "id": 33,
+      "plateNUmber": "kuj510be",
+      "Insurance": "no",
+      "Licence": "no",
+      "Road Worthiness": "no"
     }
   ]
 }
