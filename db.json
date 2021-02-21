@@ -2,49 +2,49 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "MNH463XX",
+      "plateNUmber": "t0y0ta",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 4,
-      "plateNUmber": "AZW989LK",
+      "plateNUmber": "qyqt",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "no"
     },
     {
       "id": 2,
-      "plateNUmber": "abj594h",
+      "plateNUmber": "yab219fx",
       "Insurance": "no",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 7,
-      "plateNUmber": "abj594b",
+      "plateNUmber": "abc223ce",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "yes"
     },
     {
       "id": 22,
-      "plateNUmber": "YAB216AZ",
+      "plateNUmber": "yab230ny",
       "Insurance": "yes",
       "Licence": "no",
-      "Road Worthiness": "notfound"
+      "Road Worthiness": "no"
     },
     {
       "id": 14,
-      "plateNUmber": "ABC705SZ",
+      "plateNUmber": "er88888",
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "yes"
     },
     {
       "id": 33,
-      "plateNUmber": "SHR406AA",
+      "plateNUmber": "krd766cn",
       "Insurance": "no",
       "Licence": "no",
       "Road Worthiness": "no"
