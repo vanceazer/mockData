@@ -2,21 +2,21 @@
   "carInformation": [
     {
       "id": 1,
-      "plateNUmber": "eva8054",
+      "plateNUmber": "abc341tu",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "yes"
     },
     {
       "id": 4,
-      "plateNUmber": "kuj602nw",
+      "plateNUmber": "lsk4788",
       "Insurance": "yes",
       "Licence": "yes",
       "Road Worthiness": "no"
     },
     {
       "id": 27,
-      "plateNUmber": "abj108jy",
+      "plateNUmber": "rsh125hf",
       "Insurance": "no",
       "Licence": "yes",
       "Road Worthiness": "yes"
@@ -30,7 +30,7 @@
     },
     {
       "id": 22,
-      "plateNUmber": "x8207xe",
+      "plateNUmber": "hml030ph",
       "Insurance": "yes",
       "Licence": "no",
       "Road Worthiness": "no"
